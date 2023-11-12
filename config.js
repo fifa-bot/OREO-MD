@@ -16,7 +16,7 @@ global.website = 'https://wa.me/+923474187615' //wa.me/+25000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ee46da705fa65f9f4ccd4.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'OREO MD' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'ASIF-OfC'💚 : process.env.OWNER_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'ASIF-OfC💚' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'Asif' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
