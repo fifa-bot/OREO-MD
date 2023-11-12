@@ -10,19 +10,10 @@
 
    <p align="center">
 <a href="https://github.com/Joker-Ofc">
-    <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg"  width="700px">
+    <img src="[https://telegra.ph/file/ee46da705fa65f9f4ccd4.jpg]"  width="700px">
   </a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙊𝙍𝙀𝙊╺+𝙈𝘿+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙹𝙾𝙺𝙴𝚁+𝙾𝙵𝙲+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐀𝐒𝐈𝐅🌹)](https://git.io/typing-svg)
-
-
-***𝙁𝘼𝙆𝙀 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨***
-
-p align="center">
-<a href="https://github.com/Joker-Ofc">
-    <img src="https://telegra.ph/file/0c6f27ff5799e9a8ee611.jpg"  width="700px">
-  </a>
-
 
   
 <div align="center">    
@@ -85,11 +76,6 @@ p align="center">
 
 
 
-VAJIRA whatsapp bot is,
+OREO whatsapp bot is,
 
-   VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
-
-
-
-
-[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/vajirabot1/DARK-VAJIRA)
+   OREO whatsapp bot is an easy to use whatsapp robot.
